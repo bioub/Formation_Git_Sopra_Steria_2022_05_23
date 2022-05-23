@@ -16,3 +16,4 @@ Formation Git Perfectionnement du 23/05/2022
 * Centralized
 * Gitflow
 * GitHub flow
+* GitLab flow
