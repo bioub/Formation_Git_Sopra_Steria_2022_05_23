@@ -10,3 +10,9 @@ Formation Git Perfectionnement du 23/05/2022
 * git merge --squash
 * git rebase
 * git cherry-pick
+
+## Les Workflows
+
+* Centralized
+* Gitflow
+* GitHub flow
